@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1624786678 source:c:\users\mahmodul kabir\onedrive\documents\ratul\notes aiub\codeblocks projects\graphics\tiangle_fan_circle\main.c
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+	<stdlib.h>
+

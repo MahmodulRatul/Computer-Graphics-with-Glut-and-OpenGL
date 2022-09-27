@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1612933623 source:c:\users\mahmodul kabir\onedrive\documents\ratul\notes aiub\codeblocks projects\graphics\circle\main.cpp
+	<Windows.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
